@@ -33,7 +33,7 @@ setxkbmap us
 
 brightnessctl s 10-
 
-feh --bg-fill ~/Pictures/eric-jacob-G0miZ5OYaXI-unsplash.jpg
+feh --bg-fill ~/Pictures/3mcg97oyotu61.jpg
 
 picom -f &
 
