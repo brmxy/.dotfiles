@@ -1,3 +1,12 @@
 [submodule "themes/Colloid-gtk-theme"]
 	path = themes/Colloid-gtk-theme
 	url = git@github.com:vinceliuice/Colloid-gtk-theme.git
+[submodule ".fonts/San-Francisco-Pro-Fonts"]
+	path = .fonts/San-Francisco-Pro-Fonts
+	url = git@github.com:sahibjotsaggu/San-Francisco-Pro-Fonts
+[submodule "themes/Layan-cursors"]
+	path = themes/Layan-cursors
+	url = git@github.com:vinceliuice/Layan-cursors.git
+[submodule "themes/McMojave-circle"]
+	path = themes/McMojave-circle
+	url = git@github.com:vinceliuice/McMojave-circle.git
