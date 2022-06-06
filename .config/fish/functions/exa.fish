@@ -1,5 +1,5 @@
 function ll
-	exa -l --changed --group-directories-first --colour=always --icons $argv
+	exa -G --changed --group-directories-first --colour=always --icons $argv
 end
 
 function lla
