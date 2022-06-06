@@ -33,7 +33,7 @@ setxkbmap us
 
 brightnessctl s 10-
 
-feh --bg-fill ~/Pictures/ceftriaxone.png
+feh --bg-fill ~/.dotfiles/wallpaper/ceftriaxone.png
 
 picom -f &
 
