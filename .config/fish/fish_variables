@@ -1,6 +1,10 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
 SETUVAR __fish_initialized:3400
+SETUVAR _fish_abbr_bwre:brew
+SETUVAR _fish_abbr_clera:clear
+SETUVAR _fish_abbr_gti:git
+SETUVAR _fish_abbr_yearn:yarn
 SETUVAR fish_color_autosuggestion:555\x1ebrblack
 SETUVAR fish_color_cancel:\x2dr
 SETUVAR fish_color_command:blue
