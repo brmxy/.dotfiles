@@ -37,6 +37,6 @@ if [[ ! -z $unmerged_files ]]; then
 else
    # Run stow to ensure all new dotfiles are linked
    stow .config -t ~/.config/ -vv
-   stow .fonts -t ~/.fonts -vv
+   stow .fonts -t ~/.fonts/ -vv
    stow git
 fi

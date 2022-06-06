@@ -59,6 +59,10 @@ Here is the specification of my configuration.
 
 # Usage
 
+**IMPORTANT**
+
+Check the config files before installing it. Make sure you already know what you are doing.
+
 ```bash
 # clone and stow the configurations
 
