@@ -1,5 +1,8 @@
 # This file contains fish universal variable definitions.
 # VERSION: 3.0
+SETUVAR --export ANDROID_SDK_ROOT:/home/yarabramasta/Android/Sdk
+SETUVAR --export FLUTTER_HOME:/home/yarabramasta/Android/flutter
+SETUVAR --export JAVA_HOME:/usr/lib/jvm/java\x2d11\x2dopenjdk
 SETUVAR __fish_initialized:3400
 SETUVAR _fish_abbr_bwre:brew
 SETUVAR _fish_abbr_clera:clear
