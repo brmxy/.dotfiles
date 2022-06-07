@@ -55,7 +55,13 @@ Here is the specification of my configuration.
 
 # Screenshoots
 
-> _coming soon..._
+![Desktop](./screenshoots/desktop.png "Desktop")
+
+![Terminal](./screenshoots/terminal.png "Terminal")
+
+![File Manager](./screenshoots/nemo.png "File Manager")
+
+![Editor](./screenshoots/vscode.png "Editor")
 
 # Usage
 
