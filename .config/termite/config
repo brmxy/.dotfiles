@@ -8,7 +8,7 @@
 [options]
 allow_bold = true
 
-cell_height_scale = 1.5
+cell_height_scale = 1.0
 cell_width_scale = 1.0
 
 dynamic_title = true
