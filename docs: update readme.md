@@ -1,4 +1,4 @@
-![](https://repository-images.githubusercontent.com/490543338/b472cd63-4b6a-40c4-ba84-8f22f3893b21)
+![](https://raw.githubusercontent.com/yarabramasta/.dotfiles/master/screenshoots/desktop.png)
 
 # Dotfiles
 
