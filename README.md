@@ -1,3 +1,7 @@
+![](https://repository-images.githubusercontent.com/490543338/b472cd63-4b6a-40c4-ba84-8f22f3893b21)
+
+# Dotfiles
+
 - [Dotfiles](#dotfiles)
 - [Specification](#specification)
     - [Theme](#theme)
@@ -6,8 +10,6 @@
 - [Folder Structure](#folder-structure)
 - [Screenshoots](#screenshoots)
 - [Usage](#usage)
-
-# Dotfiles
 
 This is my **.dotfiles** collection for Arch Linux ricing.
 
@@ -54,8 +56,6 @@ Here is the specification of my configuration.
 |xorg-conf|Configurations for xorg.conf.d|
 
 # Screenshoots
-
-![Desktop](./screenshoots/desktop.png "Desktop")
 
 ![Terminal](./screenshoots/terminal.png "Terminal")
 
