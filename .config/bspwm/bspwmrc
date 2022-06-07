@@ -31,6 +31,8 @@ bspc config presel_feedback_color "#2e3440"
 # Startup command
 setxkbmap us
 
+xfce4-power-manager &
+
 brightnessctl s 10-
 
 feh --bg-fill ~/.dotfiles/wallpaper/ceftriaxone.png
