@@ -10,3 +10,6 @@
 [submodule "themes/McMojave-circle"]
 	path = themes/McMojave-circle
 	url = git@github.com:vinceliuice/McMojave-circle.git
+[submodule "polybar-collection"]
+	path = polybar-collection
+	url = git@github.com:Murzchnvok/polybar-collection.git

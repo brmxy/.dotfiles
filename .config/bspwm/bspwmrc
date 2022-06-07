@@ -41,4 +41,4 @@ picom -f &
 
 $HOME/.config/dunst/reload.sh
 
-$HOME/.config/polybar/launch.sh
+$HOME/polybar-collection/launch.sh
