@@ -38,5 +38,6 @@ else
    # Run stow to ensure all new dotfiles are linked
    stow .config -t ~/.config/ -vv
    stow .fonts -t ~/.fonts/ -vv
+   stow polybar-collection/* -t ~/polybar-collection
    stow git
 fi
