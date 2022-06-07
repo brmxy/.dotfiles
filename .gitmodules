@@ -12,4 +12,4 @@
 	url = git@github.com:vinceliuice/McMojave-circle.git
 [submodule "polybar-collection"]
 	path = polybar-collection
-	url = git@github.com:Murzchnvok/polybar-collection.git
+	url = git@github.com:yarabramasta/polybar-collection.git
